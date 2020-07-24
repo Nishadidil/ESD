@@ -7,6 +7,9 @@ Welcome to second year second semester Module.
   Data Structures and Algorithums.
   Probability and Statistic.
   
+  Programming.
+  Mathematics.
+  
 Welcome to second year first semester Module.
   Computer Networks.
   Database Management Systems.
