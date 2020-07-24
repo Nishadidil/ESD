@@ -1,4 +1,4 @@
-Welcome to secound year secound semester Module.
+Welcome to second year second semester Module.
 
   Information Technology Project.
   Professional Skills Development.
@@ -6,4 +6,11 @@ Welcome to secound year secound semester Module.
   Employee Skills Development.
   Data Structures and Algorithums.
   Probability and Statistic.
+  
+Welcome to second year first semester Module.
+  Computer Networks.
+  Database Management Systems.
+  Operating  Systems and System Administration.
+  Software Engineering.
+  Object Oriented Programming.
   
